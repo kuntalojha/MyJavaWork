@@ -16,7 +16,7 @@ public class C2_An_Overview_of_Java3 {
                 x=x*2;
                 if (x>y)
                     System.out.println("x now greater then y.");
-                // this won't display anythings
+                // this won't display anything's
                     if (x==y)
                         System.out.println("you won't see this.");
     }
